@@ -5,6 +5,6 @@ rss_groups:
     
 chat_ids:
   -1001436520490:
-    <<: *Share
+        <<: *Share
  
  
