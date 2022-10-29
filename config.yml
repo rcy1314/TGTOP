@@ -1,12 +1,10 @@
 rss_groups:
+    分享: &Share
     V2EX创意分享: https://www.v2ex.com/feed/create.xml
     B站野生技能分区: https://rsshub.uneasy.win/bilibili/partion/122
     
 chat_ids:
   -1001436520490:
-    <<: *tech
-    <<: *blog
-    <<: *new
-    <<: *other
+    <<: *Share
  
  
