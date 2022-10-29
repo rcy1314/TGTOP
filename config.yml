@@ -2,15 +2,7 @@ rss_groups:
   技术: &tech
     V2EX创意分享: https://www.v2ex.com/feed/create.xml
     B站野生技能分区: https://rsshub.uneasy.win/bilibili/partion/122
-  博客: &blog
-    月光博客:
-      url: https://www.williamlong.info/rss.xml
-      fold: true
-    阮一峰的网络日志: https://www.ruanyifeng.com/blog/atom.xml
-  新闻: &new
-    FT中文网: http://www.ftchinese.com/rss/news
-  综合: &other
-    少数派: https://sspai.com/feed
+  
 
 chat_ids:
   877702922:
