@@ -1,5 +1,5 @@
 rss_groups:
-  技术: &tech
+  分享: &tech
     V2EX创意分享: https://www.v2ex.com/feed/create.xml
     B站野生技能分区: https://rsshub.uneasy.win/bilibili/partion/122
   
