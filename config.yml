@@ -1,9 +1,8 @@
 rss_groups:
-  分享: &tech
+  订阅: &other
     V2EX创意分享: https://www.v2ex.com/feed/create.xml
     B站野生技能分区: https://rsshub.uneasy.win/bilibili/partion/122
-  
-
+    
 chat_ids:
   877702922:
     <<: *tech
