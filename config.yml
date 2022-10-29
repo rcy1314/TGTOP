@@ -1,15 +1,10 @@
 rss_groups:
-  订阅: &other
-    V2EX创意分享: https://www.v2ex.com/feed/create.xml
+  哔哩哔哩: &bilibili
     B站野生技能分区: https://rsshub.uneasy.win/bilibili/partion/122
+  综合: &other
+    V2EX创意分享: https://www.v2ex.com/feed/create.xml
+    fold: true
     
-chat_ids:
-  877702922:
-    <<: *tech
-    <<: *blog
-    <<: *new
-    <<: *other
-
 chat_ids:
   -1001436520490:
     <<: *tech
