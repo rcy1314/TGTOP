@@ -13,7 +13,7 @@ rss_groups:
     少数派: 
 
 chat_ids:
-  383054885:
+  -1001436520490:
     <<: *tech
     <<: *blog
     <<: *new
