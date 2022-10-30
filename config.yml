@@ -1,7 +1,7 @@
 rss_groups:
   分享: &tech
-    V2EX创意分享: https://www.v2ex.com/feed/create.xml
-    B站野生技能分区: https://rsshub.uneasy.win/bilibili/partion/122
+    V2EX创意分享: 
+    B站野生技能分区: 
   博客: &blog
     月光博客:
       url: 
@@ -11,6 +11,8 @@ rss_groups:
     efficiencyfollow: https://www.efficiency.vip/atom/discussions
     竹白: https://rsshub.app/zhubai/noise
     公众号: https://rsshub.app/wechat/mp/msgalbum/MzUzODgyNDc5Ng==/2300793028376412163
+    微博: https://rssfeed.today/weibo/rss/1688681977
+    TWITTER喜欢: https://rsshub.app/twitter/likes/liangwenhao3
   综合: &other
     少数派: 
 
