@@ -7,8 +7,10 @@ rss_groups:
       url: 
       fold: true
     阮一峰的网络日志: 
-  新闻: &new
-    FT中文网: 
+  efficiency: &new
+    efficiencyfollow: https://www.efficiency.vip/atom/discussions
+    竹白: https://rsshub.app/zhubai/noise
+    公众号: https://rsshub.app/wechat/mp/msgalbum/MzUzODgyNDc5Ng==/2300793028376412163
   综合: &other
     少数派: 
 
